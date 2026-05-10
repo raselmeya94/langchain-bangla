@@ -31,7 +31,7 @@ A comprehensive LangChain tutorial series in Bangla — covering prompt engineer
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/langchain-bangla.git
+git clone https://github.com/raselmeya94/langchain-bangla.git
 cd langchain-bangla
 
 python -m venv .venv
